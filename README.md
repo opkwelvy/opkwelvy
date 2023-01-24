@@ -10,7 +10,7 @@
   <img align="center" alt="kelvyHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelvyCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KelvyPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="KelvyFimga" height="30" width="40" src="https://icons8.com.br/icon/zfHRZ6i1Wg0U/figma">
+  <img align="center" alt="KelvyFimga" height="30" width="40" src="https://www.flaticon.com/free-icon/figma_5968705?term=figma&page=1&position=2&origin=search">
 </div>
 <div style="display: inline_block"><br>
   <h3>Linguagens que irei estudar:<h3>
