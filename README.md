@@ -5,19 +5,20 @@
 - ✨Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
-  <h3>Linguagens que já trabalhadas</h3>
+  <h3>Linguagens e ferramentas que já estudei/ estou estudando:</h3>
   <img align="center" alt="kelvyJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kelvyHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelvyCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KelvyPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="KelvyFimga" height="30" width="40" src="https://icons8.com.br/icon/8gfeOoqrHqJU/figma">
 </div>
 <div style="display: inline_block"><br>
-  <h3>Metas<h3>
+  <h3>Linguagens que irei estudar:<h3>
   <img align="center" alt="KelvyTs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="KelvyReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="KelvyPython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Kelvysharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
+ </div>
     
 ##
     
