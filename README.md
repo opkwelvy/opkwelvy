@@ -11,7 +11,6 @@
   <img align="center" alt="kelvyCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KelvyPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Figma icon"  width="36"  src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" >
-  <img align="center" alt="iconc#" width="40" height="30" src="https://icons8.com.br/icon/45490/c-afiado-logotipo-2">
 </div>
 <div style="display: inline_block"><br>
   <h3>Linguagens que irei estudar:<h3>
