@@ -1,6 +1,6 @@
 - 👋 Olá, sou Kelvy.
-- 👀 Estou interessado em React, TypeScript, Node.js and SCSS.
-- 🌱 Atualmente estou estudando JavaScript, UI, UX e me aprofundando em HTML e CSS.
+- 👀 Estou interessado em React, Next.js e SCSS.
+- 🌱 Atualmente estou me paprofundando em React, UI/UX e CSS.
 - 📫 Entre em contato comigo por email: kelvycorrea35@gmail.com
 - ✨Pronomes: Ele/Dele
 
