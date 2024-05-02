@@ -1,6 +1,5 @@
 - 👋 Olá, sou Kelvy.
-- 👀 Estou interessado em React, Next.js e SCSS.
-- 🌱 Atualmente estou me paprofundando em React, UI/UX e CSS.
+- 🌱 Atualmente estou atuando com React.js, Next.js, SCSS, Styled-Components e TypeScript.
 - 📫 Entre em contato comigo por email: kelvycorrea35@gmail.com
 - ✨Pronomes: Ele/Dele
 
@@ -19,7 +18,6 @@
 ##
     
 <div>
-  <a href="https://www.instagram.com/opkwelvy/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kelvycorrea35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kelvy-corrêa-1995a8209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
